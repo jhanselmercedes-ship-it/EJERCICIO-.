@@ -1,1 +1,4 @@
-# EJERCICIO-.
+# EJERCICIO-.Algoritmo Punto1_a
+    x <- (2+3)*6
+    Escribir "El valor de x es: ", x
+FinAlgoritmo
