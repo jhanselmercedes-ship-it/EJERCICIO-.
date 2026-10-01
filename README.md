@@ -40,3 +40,13 @@ Algoritmo Punto2_a
     x <- a-b+c
     Escribir "El resultado es: ", x
 FinAlgoritmo
+
+
+
+Algoritmo Punto2_b
+    a <- 6
+    b <- 2
+    c <- 3
+    x <- a*b/c
+    Escribir "El resultado es: ", x
+FinAlgoritmo
