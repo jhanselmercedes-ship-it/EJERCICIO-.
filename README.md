@@ -126,3 +126,24 @@ Algoritmo Punto3_d
     Escribir "b = ", b
     Escribir "c = ", c
 FinAlgoritmo
+
+
+
+Algoritmo Punto4_a
+	m <- 10
+	n <- 2
+	resultado <- (m + n) / n
+    Escribir "El resultado es: ", resultado
+FinAlgoritmo
+
+
+
+Algoritmo Punto4_b
+	m <- 10
+	n <- 8
+	p <- 4
+	r <- 6
+	s <- 2 
+	resultado <- (m + n / p ) / ( p - r / s )
+    Escribir "El resultado es: ", resultado
+FinAlgoritmo
