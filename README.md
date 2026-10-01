@@ -16,3 +16,10 @@ Algoritmo Punto1_c
     x <- (2+3)/4
     Escribir "El valor de x es: ", x
 FinAlgoritmo
+
+
+
+Algoritmo Punto1_d
+    x <- (2+3) MOD 4
+    Escribir "El valor de x es: ", x
+FinAlgoritmo
