@@ -83,3 +83,14 @@ Algoritmo Punto3_a
     Escribir "b = ", b
     Escribir "c = ", c
 FinAlgoritmo
+
+
+
+Algoritmo Punto3_b
+    a <- 10
+    b <- 5
+    a <- b
+    b <- a
+    Escribir "a = ", a
+    Escribir "b = ", b
+FinAlgoritmo
