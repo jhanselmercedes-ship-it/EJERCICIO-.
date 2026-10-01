@@ -33,3 +33,10 @@ FinAlgoritmo
 
 
 
+Algoritmo Punto2_a
+    a <- 6
+    b <- 2
+    c <- 3
+    x <- a-b+c
+    Escribir "El resultado es: ", x
+FinAlgoritmo
