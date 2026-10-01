@@ -94,3 +94,20 @@ Algoritmo Punto3_b
     Escribir "a = ", a
     Escribir "b = ", b
 FinAlgoritmo
+
+
+
+Algoritmo Punto3_c
+    a <- 1
+    b <- 4
+    c <- a+b
+    d <- a-b
+    a <- c+2*b
+    b <- c+b
+    c <- a*b
+    d <- b+d
+    Escribir "a = ", a
+    Escribir "b = ", b
+    Escribir "c = ", c
+    Escribir "d = ", d
+FinAlgoritmo
