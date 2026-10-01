@@ -147,3 +147,13 @@ Algoritmo Punto4_b
 	resultado <- (m + n / p ) / ( p - r / s )
     Escribir "El resultado es: ", resultado
 FinAlgoritmo
+
+
+
+Algoritmo Punto4_c
+	m <- 6
+	p <- 10
+	q <- 5
+	resultado <- (m + 4 ) / ( p - q )
+    Escribir "El resultado es: ", resultado
+FinAlgoritmo
