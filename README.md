@@ -70,3 +70,16 @@ Algoritmo Punto2_e
     x <- c^b+c*b
     Escribir "El resultado es: ", x
 FinAlgoritmo
+
+
+
+Algoritmo Punto3_a
+    a <- 3
+    b <- 0
+    c <- a+b
+    b <- a+b
+    a <- b
+    Escribir "a = ", a
+    Escribir "b = ", b
+    Escribir "c = ", c
+FinAlgoritmo
