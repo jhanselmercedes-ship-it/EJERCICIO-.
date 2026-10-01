@@ -50,3 +50,13 @@ Algoritmo Punto2_b
     x <- a*b/c
     Escribir "El resultado es: ", x
 FinAlgoritmo
+
+
+
+Algoritmo Punto2_c
+    a <- 6
+    b <- 2
+    c <- 3
+    x <- (a*c) MOD c
+    Escribir "El resultado es: ", x
+FinAlgoritmo
