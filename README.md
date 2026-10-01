@@ -60,3 +60,13 @@ Algoritmo Punto2_c
     x <- (a*c) MOD c
     Escribir "El resultado es: ", x
 FinAlgoritmo
+
+
+
+Algoritmo Punto2_e
+    a <- 6
+    b <- 2
+    c <- 3
+    x <- c^b+c*b
+    Escribir "El resultado es: ", x
+FinAlgoritmo
