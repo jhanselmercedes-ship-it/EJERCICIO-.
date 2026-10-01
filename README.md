@@ -26,7 +26,10 @@ FinAlgoritmo
 
 
 
-Algoritmo Punto1_e
-    x <- Trunc((2+3)/4)
+Algoritmo Punto1_g
+    x <- 2^2+3-2*(5 MOD 2)
     Escribir "El valor de x es: ", x
 FinAlgoritmo
+
+
+
